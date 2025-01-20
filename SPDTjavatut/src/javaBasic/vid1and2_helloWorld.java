@@ -14,7 +14,7 @@ public class vid1and2_helloWorld {
 		System.out.println("Datatype identifier; or ");
 		System.out.println("Datatype identifier = value ");
 		char middleName = 'V'; // one quote for char
-		String name = "Denzel"; // double quote for string
+		String name = "Calcifer"; // double quote for string
 		boolean isMaganda = true;
 		int age = 000;
 		float grade = 80.99f; //float always with f otherwise it's double
